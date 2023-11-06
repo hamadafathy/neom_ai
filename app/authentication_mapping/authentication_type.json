@@ -1,0 +1,89 @@
+{
+  "text": "utter_NEOM_Gov_Robot_authentication_type_535af03a-cc8d-4aee-9a57-8665134ef34c",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Let’s Get Started",
+        "screenText": "<div style=\"text-align: left;\"><span style=\"background-color: initial; display: inline !important;\"><font color=\"#ffffff\">Select Your Identification Type</font></span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": [
+          {
+            "title": "Passport",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "passport",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Saudi National ID",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "id",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Iqama",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "iqama",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          }
+        ],
+        "input": null,
+        "screenType": "Card",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/2421b60a-43b6-450d-bc22-4648c15c1b6d_businessman-holding-digital-tablet-success-cityscape-generated-by-ai.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

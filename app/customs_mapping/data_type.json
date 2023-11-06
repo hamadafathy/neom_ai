@@ -1,0 +1,54 @@
+{
+  "text": "15000000NEOM_Gov_Robot_customs_data_type_357300bb-762e-476a-a03f-551788a69cb8",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Customs",
+        "screenText": "<font color=\"#ffffff\">Please Confirm If You Want to Send This Request Using Your Personal Data and Not on Behalf of Another User</font>",
+        "buttons": [
+          {
+            "intent": "other_user_data",
+            "buttonTitle": "Use Another Member's Data",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          },
+          {
+            "intent": "personal_data",
+            "buttonTitle": "Use My Personal Data",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          }
+        ],
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Button",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/2a202806-7ec0-4987-9ff2-3011549e6f6d_large-industrial-building-with-bridge-background_1.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

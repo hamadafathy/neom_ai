@@ -1,0 +1,157 @@
+{
+  "text": "utter_NEOM_Gov_Robot_onboarding_66ebbe45-c94c-4344-a2ca-bcd102313542",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 40,
+        "template": "Template2",
+        "screenTitle": "Explore Services",
+        "screenText": "<div><span style=\"color: rgb(255, 255, 255); display: inline !important;\">Swipe and select the service you want to explore.</span></div><div><br style=\"color: rgba(0, 0, 0, 0.85); text-align: center; background-color: rgba(0, 0, 0, 0.3);\"></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": [
+          {
+            "title": "Flying Permits",
+            "description": "",
+            "image": "https://demo.communico.ai:53210/Attachments/9202b894-993e-4ba8-9e59-6ce94f052a4d_Icons.png",
+            "buttons": [
+              {
+                "intent": "Flying Permits",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Tourism Permits",
+            "description": "",
+            "image": "https://demo.communico.ai:53210/Attachments/c31ae4a6-4ffc-443d-a342-19b08b69ae33_Icons_(1).png",
+            "buttons": [
+              {
+                "intent": "Tourism Permits",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Visa",
+            "description": "",
+            "image": "https://demo.communico.ai:53210/Attachments/824ee4b1-d9a4-4f61-a5c8-3662b6adeee8_Group_236.png",
+            "buttons": [
+              {
+                "intent": "Visa",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Marine",
+            "description": "",
+            "image": "https://demo.communico.ai:53210/Attachments/c6cac84b-d256-4ef1-b83d-1c13fcfc07e4_Icons_(2).png",
+            "buttons": [
+              {
+                "intent": "Marine",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Iqama",
+            "description": "",
+            "image": "https://demo.communico.ai:53210/Attachments/c6a7bd19-1c82-4469-b5bd-a7afc33dc0eb_Iqama.png",
+            "buttons": [
+              {
+                "intent": "Iqama",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Work & Constructions",
+            "description": "",
+            "image": "https://demo.communico.ai:53210/Attachments/b9a515cb-e8b9-4bbe-b36e-c154fbb51725_Work_construction.png",
+            "buttons": [
+              {
+                "intent": "Work and Constructions",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Customs",
+            "description": "",
+            "image": "https://demo.communico.ai:53210/Attachments/54f2ab41-5985-439c-bce2-a5982def1267_Customs.png",
+            "buttons": [
+              {
+                "intent": "Customs",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          }
+        ],
+        "input": null,
+        "screenType": "Card",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/68420657-b889-4ac8-9cf9-c24d3d5a25c2_Surface_Pro_8_-_212.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

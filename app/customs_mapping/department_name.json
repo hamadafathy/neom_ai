@@ -1,0 +1,56 @@
+{
+  "text": "15000000NEOM_Gov_Robot_customs_department_name_04147d66-01ce-4033-89a0-67b6adbe58a5",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Customs",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); background-color: initial; display: inline !important;\">Department Name</span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "textInput",
+          "placeholder": "Neom Department",
+          "keyboardType": "Text",
+          "validationTextMsg": "Please enter a correct data",
+          "validationTTSMsg": "",
+          "validationRegex": "",
+          "subType": "inputText",
+          "slot": "customs_department_name",
+          "slotDisplayName": "customs_department_name",
+          "isMultiLine": false,
+          "isInternationalNumber": false,
+          "isEnableRefUrl": false,
+          "referenceUrl": {
+            "refUrlText": "",
+            "refUrlIntent": "",
+            "entities": [{ "entity": "", "value": "" }]
+          }
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/fbf017ef-3eb8-4c64-aaff-8a245a81533e_large-industrial-building-with-bridge-background_1.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "text": "utter_NEOM_Gov_Robot_authentication_qr_d2cbd232-ca74-45f8-ae63-f7b380987d5e",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": "Sorry, this ID is not registered. Please scan the QR code to register a new account through the portal.",
+        "screenLifetime": 0,
+        "popup": false,
+        "template": "Template2",
+        "screenTitle": null,
+        "screenText": "&nbsp;",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "QRCode",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/8984b535-3d6f-4896-b446-c9b737509baa_businessman-holding-digital-tablet-success-cityscape-generated-by-ai.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": {
+          "qrUrl": "https://testgs.neom.com/qrsignup/scan",
+          "enableBtn": true,
+          "button": {
+            "intent": "authentication_qr",
+            "buttonTitle": "Scan me",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": ""
+          }
+        },
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}
