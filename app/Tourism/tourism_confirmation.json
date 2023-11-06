@@ -1,0 +1,52 @@
+{
+  "text": "15000000NEOM_Gov_Robot_Tourism_Permits_confirmation_738b230d-5f71-42cd-aca3-1b5388b88bf1",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 50,
+        "template": "Template2",
+        "screenTitle": null,
+        "screenText": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); white-space-collapse: preserve; display: inline !important;\">Please Confirm Your Submission </span></div><span data-metadata=\"<!--(figmeta)eyJmaWxlS2V5IjoiZUh5N0VNeVBtUFBkeldqd1lxU2VRRSIsInBhc3RlSUQiOjg4ODAzMzAyLCJkYXRhVHlwZSI6InNjZW5lIn0K(/figmeta)-->\"></span>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Confirmation",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/3f9174da-c0b8-4b28-b667-e01675c0d2c3_Group_12.png"
+        },
+        "confirmation": {
+          "approve": {
+            "intent": "yes",
+            "buttonTitle": "Confirm",
+            "logo": null,
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": ""
+          },
+          "cancel": {
+            "intent": "no",
+            "buttonTitle": "Cancel",
+            "logo": null,
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": ""
+          }
+        },
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

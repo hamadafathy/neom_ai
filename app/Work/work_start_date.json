@@ -1,0 +1,45 @@
+{
+  "text": "utter_NEOM_Gov_Robot_work_date_from_91125dbb-cb47-4e3c-834c-7289b1872998",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Work & Constructions",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"display: inline !important;\"><font color=\"#ffffff\">Start Date</font></span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "calendarInput",
+          "calendarType": "Gregorian Calendar",
+          "slot": "work_start_date",
+          "slotDisplayName": "work_start_date",
+          "duration": "",
+          "subType": "datePicker"
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/6e7b3b8a-c109-4747-981b-a64e0e03d80a_low_quality.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

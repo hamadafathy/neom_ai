@@ -1,0 +1,106 @@
+{
+  "text": "15000000NEOM_Gov_Robot_visa_member_applicant_relationship_cf271762-0ca8-48ab-bae4-c68f64a63488",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Visa",
+        "screenText": "<font color=\"#ffffff\">What is the Member’s Relationship to the Applicant?</font>",
+        "buttons": null,
+        "carousel": null,
+        "cards": [
+          {
+            "title": "Wife",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "wife",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Husband",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "husband",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Daughter",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "daughter",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Son",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "son",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          }
+        ],
+        "input": null,
+        "screenType": "Card",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/97437ce1-a23b-4749-92b0-91cf25ec501e_glowing-abstract-computer-network-symbol-illuminates-dark-night-generated-by-ai_1.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

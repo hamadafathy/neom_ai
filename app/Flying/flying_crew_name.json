@@ -1,0 +1,56 @@
+{
+  "text": "utter_NEOM_Gov_Robot_flying_crew_name_51388a0b-cd72-40f8-82bd-09ac7ed259ef",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Flying Permits",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); display: inline !important;\">Crew Member’s Full Name</span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "textInput",
+          "placeholder": "Enter Name",
+          "keyboardType": "Text",
+          "validationTextMsg": "Please enter a correct name",
+          "validationTTSMsg": "",
+          "validationRegex": "",
+          "subType": "inputText",
+          "slot": "crew_name",
+          "slotDisplayName": "crew_name",
+          "isMultiLine": false,
+          "isInternationalNumber": false,
+          "isEnableRefUrl": false,
+          "referenceUrl": {
+            "refUrlText": "",
+            "refUrlIntent": "",
+            "entities": [{ "entity": "", "value": "" }]
+          }
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/31207057-edc0-4287-9175-701f9ee04309_Image.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

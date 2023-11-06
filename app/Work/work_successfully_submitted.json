@@ -1,0 +1,35 @@
+{
+  "text": "utter_NEOM_Gov_Robot_work_successfully_submitted_089e62ec-4e45-4c08-8803-6a349c9ef9a8",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": false,
+        "template": "Original",
+        "screenTitle": null,
+        "screenText": "<div style=\"text-align: center;\"><font color=\"#ffffff\"><img src=\"https://demo.communico.ai:53210/Attachments/f3958b3d-98dc-475c-a78d-a7a3ac3c9fd2_Group_205.png\" class=\"img-style\" style=\"background-color: initial; max-width: 400px; max-height: 400px; min-height: 30px; min-width: 30px;\"></font></div><div style=\"text-align: center;\"><span style=\"background-color: initial; color: rgb(255, 255, 255); display: inline !important;\"><br></span></div><div style=\"text-align: center;\"><span style=\"background-color: initial; color: rgb(255, 255, 255); display: inline !important;\"><br></span></div><div style=\"text-align: center;\"><span style=\"background-color: initial; color: rgb(255, 255, 255); display: inline !important;\">Thank you!</span><br></div><div style=\"text-align: center;\"><span style=\"background-color: initial; color: rgb(255, 255, 255); display: inline !important;\"><br></span></div>\n      <div style=\"text-align: center;\"><font color=\"#ffffff\">Your Request Was Successfully Submitted&nbsp;</font></div><div style=\"text-align: center;\"><font color=\"#ffffff\">Request Number:&nbsp;</font></div>\n    ",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Text",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/a2b4095c-68e3-4641-8282-bf970bea9cc4_Surface_Pro_8_-_197.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

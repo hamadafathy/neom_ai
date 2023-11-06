@@ -1,0 +1,56 @@
+{
+  "text": "utter_NEOM_Gov_Robot_work_enter_location_7720f599-a4aa-4904-b3db-d17b47bbbe23",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Work & Constructions",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); display: inline !important;\">Location</span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "textInput",
+          "placeholder": "Enter Location",
+          "keyboardType": "Text",
+          "validationTextMsg": "Please enter a valid location",
+          "validationTTSMsg": "",
+          "validationRegex": "",
+          "subType": "inputText",
+          "slot": "work_location",
+          "slotDisplayName": "work_location",
+          "isMultiLine": false,
+          "isInternationalNumber": false,
+          "isEnableRefUrl": false,
+          "referenceUrl": {
+            "refUrlText": "",
+            "refUrlIntent": "",
+            "entities": [{ "entity": "", "value": "" }]
+          }
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/888deacb-5b9a-4abe-b29a-e7d3d4ab0c3a_low_quality.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

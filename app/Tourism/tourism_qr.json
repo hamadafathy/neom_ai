@@ -1,0 +1,45 @@
+{
+  "text": "15000000NEOM_Gov_Robot_Tourism_Permits_qr_b13076ad-a695-413e-a71c-a463ca622d0a",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": "User ID is invalid or user is not registered in the system. Please register by visiting the Form App website.",
+        "screenLifetime": 0,
+        "popup": false,
+        "template": "Template2",
+        "screenTitle": "Tourism Permits",
+        "screenText": "&nbsp;",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "QRCode",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/b189b2ba-d681-42a1-99c0-23dd13d5f4e8_bg.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": {
+          "qrUrl": "https://testgs.neom.com/qrsignup/scan",
+          "enableBtn": true,
+          "button": {
+            "intent": "i need qr code",
+            "buttonTitle": "Scan me",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": ""
+          }
+        },
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

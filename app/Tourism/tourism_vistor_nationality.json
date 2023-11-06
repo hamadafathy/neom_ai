@@ -1,0 +1,47 @@
+{
+  "text": "utter_NEOM_Gov_Robot_tourism_vistor_nationality_14183296-e237-453d-bdc4-6332328f7b50",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Tourism Permits",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); display: inline !important;\">Visitor's Nationality</span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "dropDownList",
+          "placeholder": "Search Nationality",
+          "options": [
+            { "option": "Jordanian", "value": "jordan" },
+            { "option": "Egyptian", "value": "egypt" }
+          ],
+          "slot": "tourism_visitor_nationality",
+          "slotDisplayName": "tourism_visitor_nationality"
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/070de094-81b7-45d1-8113-e535c82e049e_pic.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

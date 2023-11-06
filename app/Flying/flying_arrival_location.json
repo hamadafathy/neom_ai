@@ -1,0 +1,56 @@
+{
+  "text": "utter_NEOM_Gov_Robot_flying_helicopter_arrival_6cc06f8c-171d-40d4-822a-00f786946e59",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Flying Permits",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"display: inline !important;\"><font color=\"#ffffff\">Arrival Location</font></span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "textInput",
+          "placeholder": "Enter Location",
+          "keyboardType": "Text",
+          "validationTextMsg": "Please enter a valid location",
+          "validationTTSMsg": "",
+          "validationRegex": "",
+          "subType": "inputText",
+          "slot": "flying_arrival",
+          "slotDisplayName": "flying_arrival",
+          "isMultiLine": false,
+          "isInternationalNumber": false,
+          "isEnableRefUrl": false,
+          "referenceUrl": {
+            "refUrlText": "",
+            "refUrlIntent": "",
+            "entities": [{ "entity": "", "value": "" }]
+          }
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/2e25790d-41d9-4742-b289-4bda77ad8497_Image.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

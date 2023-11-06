@@ -1,0 +1,56 @@
+{
+  "text": "utter_NEOM_Gov_Robot_marine_passenger_identification_6bb25922-890d-4a08-85a6-47eacefc7603",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Marine Permits",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); display: inline !important;\">Passenger's Identification (ID)</span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "textInput",
+          "placeholder": "Enter Identification",
+          "keyboardType": "Text",
+          "validationTextMsg": "Please enter a valid data",
+          "validationTTSMsg": "",
+          "validationRegex": "",
+          "subType": "inputText",
+          "slot": "marine_passenger_identification",
+          "slotDisplayName": "marine_passenger_identification",
+          "isMultiLine": false,
+          "isInternationalNumber": false,
+          "isEnableRefUrl": false,
+          "referenceUrl": {
+            "refUrlText": "",
+            "refUrlIntent": "",
+            "entities": [{ "entity": "", "value": "" }]
+          }
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/846f8a21-0238-4fd4-a150-d34d3b6ccac0_beautiful-boat-generative-ai_1.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

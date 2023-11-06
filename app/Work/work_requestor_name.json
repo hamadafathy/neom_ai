@@ -1,0 +1,56 @@
+{
+  "text": "utter_NEOM_Gov_Robot_work_requestor_name_b7327784-d865-4bf4-b7a9-877172107088",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Work & Constructions",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); display: inline !important;\">Requestor's Name</span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "textInput",
+          "placeholder": "Enter Name",
+          "keyboardType": "Text",
+          "validationTextMsg": "Please enter a correct name",
+          "validationTTSMsg": "",
+          "validationRegex": "",
+          "subType": "inputText",
+          "slot": "work_requestor_name",
+          "slotDisplayName": "work_requestor_name",
+          "isMultiLine": false,
+          "isInternationalNumber": false,
+          "isEnableRefUrl": false,
+          "referenceUrl": {
+            "refUrlText": "",
+            "refUrlIntent": "",
+            "entities": [{ "entity": "", "value": "" }]
+          }
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/62138871-e8f6-48d0-b924-23c7cf7e8cfe_low_quality.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

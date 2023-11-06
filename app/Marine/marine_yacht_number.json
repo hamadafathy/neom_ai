@@ -1,0 +1,56 @@
+{
+  "text": "utter_NEOM_Gov_Robot_marine_yachtMarine_Permits_number_b83de244-6d18-49f8-a23b-65b4b48c651b",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 50,
+        "template": "Template2",
+        "screenTitle": "Marine Permits",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"display: inline !important;\"><font color=\"#ffffff\">Yacht Number</font></span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "textInput",
+          "placeholder": "Enter Number",
+          "keyboardType": "Number",
+          "validationTextMsg": "Please enter a valid number",
+          "validationTTSMsg": "",
+          "validationRegex": "",
+          "subType": "inputPhone",
+          "slot": "yacht_number",
+          "slotDisplayName": "yacht_number",
+          "isMultiLine": false,
+          "isInternationalNumber": false,
+          "isEnableRefUrl": false,
+          "referenceUrl": {
+            "refUrlText": "",
+            "refUrlIntent": "",
+            "entities": [{ "entity": "", "value": "" }]
+          }
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/a096ea2d-89f3-4439-910a-dced662e81b9_beautiful-boat-generative-ai_1.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

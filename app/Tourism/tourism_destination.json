@@ -1,0 +1,157 @@
+{
+  "text": "utter_NEOM_Gov_Robot_Tourism_Destination1_9095fe0a-b440-4bc4-9900-c9fdfaf77cd3",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Tourism Permits",
+        "screenText": "<span data-metadata=\"<!--(figmeta)eyJmaWxlS2V5IjoiZUh5N0VNeVBtUFBkeldqd1lxU2VRRSIsInBhc3RlSUQiOjE0NTk3OTY3MDAsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)-->\"></span><font color=\"#ffffff\"><span style=\"white-space-collapse: preserve;\">Select Your NEOM Destination</span></font><br>",
+        "buttons": null,
+        "carousel": null,
+        "cards": [
+          {
+            "title": "Neom Zero",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "neom zero",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "The Line",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "the line",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Neom Industrial City",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "neom industrial city",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Neom Mountain",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "neom mountain",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Gulf of Aqaba",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "gulf af aqaba",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Island of Neom",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "island of neom",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Other",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "other",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          }
+        ],
+        "input": null,
+        "screenType": "Card",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/fb9d2c90-e346-47f3-82b0-326437701189_bg.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

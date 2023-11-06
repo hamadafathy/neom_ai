@@ -1,0 +1,47 @@
+{
+  "text": "utter_NEOM_Gov_Robot_marine_crew_nationality_0f98880e-5da6-4921-bbae-ec7665d4ac66",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Marine Permits",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"background-color: initial; display: inline !important;\"><font color=\"#ffffff\">Crew Member’s Nationality</font></span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "dropDownList",
+          "placeholder": "Search Nationality",
+          "options": [
+            { "option": "Jordanian", "value": "jordan" },
+            { "option": "Egyptian", "value": "egypt" }
+          ],
+          "slot": "marine_crew_nationality",
+          "slotDisplayName": "marine_crew_nationality"
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/aea2ab3c-7698-4e9f-b300-bc8f7440431b_beautiful-boat-generative-ai_1.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

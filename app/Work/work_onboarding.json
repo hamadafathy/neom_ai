@@ -1,0 +1,89 @@
+{
+  "text": "utter_NEOM_Gov_Robot_work_onboarding_f5882173-99a8-4898-a3b0-3440b02220f1",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Work & Constructions",
+        "screenText": "<font color=\"#ffffff\">Select the required Permit Type</font>",
+        "buttons": null,
+        "carousel": null,
+        "cards": [
+          {
+            "title": "Infrastructure",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "infrastructure",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Constructions",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "constructions",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Blasting",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "blasting",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          }
+        ],
+        "input": null,
+        "screenType": "Card",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/60171cdc-31b5-4b22-b6c8-d1b62f3fcd99_low_quality.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

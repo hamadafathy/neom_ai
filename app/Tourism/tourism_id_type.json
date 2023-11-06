@@ -1,0 +1,89 @@
+{
+  "text": "utter_NEOM_Gov_Robot_Tourism_id_type_6577cf96-db7b-4304-aa85-0a6f6042670f",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 50,
+        "template": "Template2",
+        "screenTitle": "Tourism Permits",
+        "screenText": "<font color=\"#ffffff\">Select Your Identification Type</font>",
+        "buttons": null,
+        "carousel": null,
+        "cards": [
+          {
+            "title": "Passport",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "Passport",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Saudi National ID",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "id",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Iqama",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "Iqama",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          }
+        ],
+        "input": null,
+        "screenType": "Card",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/74959d50-de4b-4df7-b0e1-522ec46691fb_bg.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

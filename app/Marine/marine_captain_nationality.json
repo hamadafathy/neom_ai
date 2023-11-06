@@ -1,0 +1,47 @@
+{
+  "text": "utter_NEOM_Gov_Robot_marine_captain_nationality_2e760230-bd12-4a66-bedf-380a309084cc",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Marine Permits",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); display: inline !important;\">Captain’s Nationality</span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "dropDownList",
+          "placeholder": "Search Nationality",
+          "options": [
+            { "option": "Jordanian", "value": "jordan" },
+            { "option": "Egyptian", "value": "egypt" }
+          ],
+          "slot": "marine_captain_nationality",
+          "slotDisplayName": "marine_captain_nationality"
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/3fcb21c2-2b7c-4af3-aabf-5bf75fb35296_beautiful-boat-generative-ai_1.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

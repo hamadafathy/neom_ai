@@ -1,0 +1,47 @@
+{
+  "text": "utter_NEOM_Gov_Robot_work_requestor_nationality_c13545f6-1438-4c14-9d6d-831d382fd4e2",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Work & Constructions",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"display: inline !important;\"><font color=\"#ffffff\">Requestor's Nationality</font></span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "dropDownList",
+          "placeholder": "Search Nationality",
+          "options": [
+            { "option": "Jordanian", "value": "jordan" },
+            { "option": "Egyptian", "value": "egypt" }
+          ],
+          "slot": "work_requestor_nationality",
+          "slotDisplayName": "work_requestor_nationality"
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/7615c41d-bf87-40be-b564-3e162d0970fa_low_quality.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "text": "utter_NEOM_Gov_Robot_flying_crew_nationality_d4c83218-32ec-4a07-bcb0-9b363ff2a83b",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Flying Permits",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"background-color: initial; display: inline !important;\"><font color=\"#ffffff\">Crew Member’s Nationality</font></span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "dropDownList",
+          "placeholder": "Search Nationality",
+          "options": [
+            { "option": "Jordanian", "value": "jordan" },
+            { "option": "Egyptian", "value": "egypt" }
+          ],
+          "slot": "crew_nationality",
+          "slotDisplayName": "crew_nationality"
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/f5e688f5-0750-41ee-aaf6-49a4bdf007fb_Image.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

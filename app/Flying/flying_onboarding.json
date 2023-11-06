@@ -1,0 +1,54 @@
+{
+  "text": "utter_NEOM_Gov_Robot_flying_onboarding_717c8188-1ea2-4ede-bdf9-d456bb6c78af",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Flying Permits",
+        "screenText": "&nbsp;",
+        "buttons": [
+          {
+            "intent": "helicopter_permits",
+            "buttonTitle": "Helicopter Permits",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          },
+          {
+            "intent": "drone_permits",
+            "buttonTitle": "Drone Permits",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          }
+        ],
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Button",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/6f5e2ec6-1e70-4cab-8c74-0af1b575511c_Image.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "text": "15000000NEOM_Gov_Robot_visa_identification_type_c19d207f-3041-428c-b78a-362bc77f6d77",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Visa",
+        "screenText": "<div style=\"text-align: left;\"><span style=\"background-color: initial; display: inline !important;\"><font color=\"#ffffff\">Select Your Identification Type</font></span></div>",
+        "buttons": [
+          {
+            "intent": "identification_passport",
+            "buttonTitle": "Passport",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          },
+          {
+            "intent": "identification_iqama",
+            "buttonTitle": "Iqama",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          }
+        ],
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Button",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/302f9d99-c97b-4e5b-ac99-e783664ac419_glowing-abstract-computer-network-symbol-illuminates-dark-night-generated-by-ai_1.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "text": "utter_NEOM_Gov_Robot_tourism_choose_date_9db1203a-e0c8-4d81-9c11-2d825e740b6e",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Tourism Permits",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"display: inline !important;\"><font color=\"#ffffff\">Specify Date of Your Visit</font></span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "calendarInput",
+          "calendarType": "Gregorian Calendar",
+          "slot": "tourism_date",
+          "slotDisplayName": "tourism_date",
+          "duration": "",
+          "subType": "datePicker"
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/23b27621-28b9-4447-b4fb-1853d3d680a1_pic.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

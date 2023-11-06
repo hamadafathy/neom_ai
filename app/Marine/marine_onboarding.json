@@ -1,0 +1,157 @@
+{
+  "text": "utter_NEOM_Gov_Robot_Test_f0e8de9c-5aad-4ae2-858b-5ada764b51a8",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Marine Permits",
+        "screenText": "<font color=\"#ffffff\">Select The Required Marine Type</font>",
+        "buttons": null,
+        "carousel": null,
+        "cards": [
+          {
+            "title": "Boat",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "boat",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Cruise",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "cruise",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Yacht",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "yacht",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Vessels",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "vessels",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Steamship",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "steamship",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "submarine",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "submarine",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          },
+          {
+            "title": "Marine Activities",
+            "description": "",
+            "image": "",
+            "buttons": [
+              {
+                "intent": "marine activities",
+                "buttonTitle": "",
+                "logo": "",
+                "entities": [{ "entity": "", "value": "" }],
+                "isVisable": false,
+                "extraText": ""
+              }
+            ],
+            "extraText": "",
+            "hasButton": false
+          }
+        ],
+        "input": null,
+        "screenType": "Card",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/efe46d0c-fe02-42a4-a3f5-afceb8fc3f98_beautiful-boat-generative-ai_1.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

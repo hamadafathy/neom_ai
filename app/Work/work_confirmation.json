@@ -1,0 +1,52 @@
+{
+  "text": "utter_NEOM_Gov_Robot_work_confirmation_question_b45df14a-1446-47fb-8802-581b9a1093ce",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"background-color: initial; display: inline !important;\"><font color=\"#ffffff\">Pleace Confirm Your Submission</font></span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Confirmation",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/c93ffa44-6a49-42cd-b42f-4407839c31ef_Surface_Pro_8_-_197.png"
+        },
+        "confirmation": {
+          "approve": {
+            "intent": "confirm",
+            "buttonTitle": "Confirm",
+            "logo": null,
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": ""
+          },
+          "cancel": {
+            "intent": "cancel",
+            "buttonTitle": "Cancel",
+            "logo": null,
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": ""
+          }
+        },
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "text": "utter_NEOM_Gov_Robot_visa_successfully_submitted_ad038d2b-cd71-457c-9dc4-183a5175f366",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": false,
+        "template": "Template2",
+        "screenTitle": null,
+        "screenText": "<div style=\"text-align: center;\"><img src=\"https://demo.communico.ai:53210/Attachments/2ea76453-b3bb-4d80-9b4e-da744b565924_Group_205.png\" class=\"img-style\" style=\"background-color: initial; max-width: 400px; max-height: 400px; min-height: 30px; min-width: 30px;\"></div>\n      <div><div style=\"text-align: center;\"><font color=\"#ffffff\"><br></font></div><div style=\"text-align: center;\"><font color=\"#ffffff\"><br></font></div><div style=\"text-align: center;\"><font color=\"#ffffff\">Thank you!</font></div><div style=\"text-align: center;\"><font color=\"#ffffff\"><br></font></div><div style=\"text-align: center;\"><font color=\"#ffffff\">Your Request Was Successfully Submitted&nbsp;</font></div><div style=\"text-align: center;\"><font color=\"#ffffff\">Request Number:&nbsp;</font></div></div><div style=\"text-align: center;\"><br></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Text",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/3ee84f94-e956-4739-aea6-674ce681fa6b_Surface_Pro_8_-_425.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

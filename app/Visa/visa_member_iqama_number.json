@@ -1,0 +1,56 @@
+{
+  "text": "15000000NEOM_Gov_Robot_visa_confirmation_message_4b3d6d6b-1fe4-46d2-b14b-e83b6c19ae0e",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Visa",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); display: inline !important;\">Member's Iqama Number</span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "textInput",
+          "placeholder": "Enter Number",
+          "keyboardType": "Number",
+          "validationTextMsg": "Please enter a valid number",
+          "validationTTSMsg": "",
+          "validationRegex": "",
+          "subType": "inputPhone",
+          "slot": "visa_iqama",
+          "slotDisplayName": "visa_iqama",
+          "isMultiLine": false,
+          "isInternationalNumber": false,
+          "isEnableRefUrl": false,
+          "referenceUrl": {
+            "refUrlText": "",
+            "refUrlIntent": "",
+            "entities": [{ "entity": "", "value": "" }]
+          }
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/99f14f41-c777-4d04-9792-28ef7ca2adfa_glowing-abstract-computer-network-symbol-illuminates-dark-night-generated-by-ai_1.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "text": "utter_NEOM_Gov_Robot_marine_submitted_successfully_54cb4e1c-0482-453c-899a-f02ae5cd1dbb",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": false,
+        "template": "Template2",
+        "screenTitle": null,
+        "screenText": "<div style=\"text-align: center;\"><img src=\"https://demo.communico.ai:53210/Attachments/905418ba-fb9f-4902-a8d6-bb93f9a0f759_Group_205.png\" class=\"img-style\" style=\"background-color: initial; max-width: 400px; max-height: 400px; min-height: 30px; min-width: 30px;\"></div>\n      <div style=\"text-align: center;\"><span style=\"background-color: initial; display: inline !important;\"><br></span></div><div style=\"text-align: center;\"><span style=\"background-color: initial; display: inline !important;\"><font color=\"#ffffff\">Thank you!</font></span></div><div style=\"text-align: center;\"><font color=\"#ffffff\"><br></font></div><div><div style=\"text-align: center;\"><font color=\"#ffffff\"><br></font></div><div style=\"text-align: center;\"><font color=\"#ffffff\">Your Request Was Successfully Submitted&nbsp;</font></div><div style=\"text-align: center;\"><font color=\"#ffffff\">Request Number:&nbsp;</font></div>\n    </div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Text",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/e18bf41a-445a-4d74-91af-ad030f628528_Surface_Pro_8_-_173.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

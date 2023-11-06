@@ -1,0 +1,54 @@
+{
+  "text": "utter_NEOM_Gov_Robot_flying_operator_confirmation_260657aa-3665-4d15-af7b-9c75cdd5af39",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Flying Permits",
+        "screenText": "<font color=\"#ffffff\">Please confirm if you are the operator</font>",
+        "buttons": [
+          {
+            "intent": "personal_data",
+            "buttonTitle": "Yes, I am the Operator",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          },
+          {
+            "intent": "deny",
+            "buttonTitle": "No",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          }
+        ],
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Button",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/c6f7d81c-6fa5-4217-803f-89b9a37ac583_Image.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

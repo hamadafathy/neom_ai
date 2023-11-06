@@ -1,0 +1,7 @@
+requests
+json
+fastapi[all]
+transformers
+torch
+langchain
+accelerate

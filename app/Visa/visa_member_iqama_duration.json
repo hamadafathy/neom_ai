@@ -1,0 +1,56 @@
+{
+  "text": "15000000NEOM_Gov_Robot_visa_member_iqama_duration_9c4aef37-3137-4eb3-b17e-afd61220f0cb",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Visa",
+        "screenText": "<div style=\"text-align: center;\"><span style=\"background-color: initial; display: inline !important;\"><font color=\"#ffffff\">Member's Iqama Duration</font></span></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "textInput",
+          "placeholder": "Enter Duration",
+          "keyboardType": "Text",
+          "validationTextMsg": "Please enter a valid duration",
+          "validationTTSMsg": "",
+          "validationRegex": "",
+          "subType": "inputText",
+          "slot": "visa_duration",
+          "slotDisplayName": "visa_duration",
+          "isMultiLine": false,
+          "isInternationalNumber": false,
+          "isEnableRefUrl": false,
+          "referenceUrl": {
+            "refUrlText": "",
+            "refUrlIntent": "",
+            "entities": [{ "entity": "", "value": "" }]
+          }
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/a14bdc54-32da-4b73-8ea6-f4c755caa863_glowing-abstract-computer-network-symbol-illuminates-dark-night-generated-by-ai_1.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

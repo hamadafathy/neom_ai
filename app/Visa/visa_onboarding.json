@@ -1,0 +1,54 @@
+{
+  "text": "15000000NEOM_Gov_Robot_visa_onboarding_5791a8ad-be88-4e1d-af05-40f69b0bd364",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Visa",
+        "screenText": "<br>",
+        "buttons": [
+          {
+            "intent": "exit_reentry_visa",
+            "buttonTitle": "Exit Re-entry Visa Issuance",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          },
+          {
+            "intent": "family_visa",
+            "buttonTitle": "Family Visit Visa Invitation Letter",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          }
+        ],
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Button",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/358f57bd-7e6f-4561-925e-8fd1eda00d40_glowing-abstract-computer-network-symbol-illuminates-dark-night-generated-by-ai_1.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

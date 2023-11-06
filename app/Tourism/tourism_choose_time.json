@@ -1,0 +1,45 @@
+{
+  "text": "utter_NEOM_Gov_Robot_rizk_5df16434-240d-4519-9179-8ccb711c011e",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Tourism Permits",
+        "screenText": "<div style=\"text-align: center;\"><div><font color=\"#ffffff\">Tourism Permits</font></div></div>",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": {
+          "botType": "robot",
+          "type": "calendarInput",
+          "calendarType": "Gregorian Calendar",
+          "slot": "hgdj",
+          "slotDisplayName": "jdfh",
+          "duration": "",
+          "subType": "timePicker"
+        },
+        "screenType": "Input",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/33c86e50-e825-42cf-887b-77d8fc860b0e_PG.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

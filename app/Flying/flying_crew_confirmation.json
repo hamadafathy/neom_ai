@@ -1,0 +1,54 @@
+{
+  "text": "utter_NEOM_Gov_Robot_flying_crew_confirmation_ddea4a9e-899f-4371-b150-c394b708bb49",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Flying Permits",
+        "screenText": "<div style=\"text-align: left;\"><span style=\"background-color: initial; display: inline !important;\"><font color=\"#ffffff\">Will be there any crew members onboard?</font></span></div>",
+        "buttons": [
+          {
+            "intent": "affirm",
+            "buttonTitle": "Yes",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          },
+          {
+            "intent": "deny",
+            "buttonTitle": "No",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          }
+        ],
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Button",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/e10995d9-6cb3-4826-ae26-0fb3b67168a7_Image.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "text": "15000000NEOM_Gov_Robot_visa_data_type_2e74c9cc-521d-406b-8937-41dcfc6df65a",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "isCruzerNavigation": false,
+        "screenTitle": "Visa",
+        "screenText": "<font color=\"#ffffff\">Please Confirm If You Want to Send This Request Using Your Personal Data and Not on Behalf of Another User</font>",
+        "buttons": [
+          {
+            "intent": "other_user_data",
+            "buttonTitle": "Use Another User's Data",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          },
+          {
+            "intent": "personal_data",
+            "buttonTitle": "Use My Personal Data",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          }
+        ],
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Button",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/79bcf594-8f1e-4374-8a99-629ce8f3ae6f_glowing-abstract-computer-network-symbol-illuminates-dark-night-generated-by-ai_1.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

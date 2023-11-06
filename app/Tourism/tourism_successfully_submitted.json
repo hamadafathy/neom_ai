@@ -1,0 +1,35 @@
+{
+  "text": "utter_NEOM_Gov_Robot_Tourism_Permits_Successfully_Submitted_45f62dce-0124-420b-b0e1-26ab0cf60ac8",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": false,
+        "template": "Template2",
+        "screenTitle": null,
+        "screenText": "<div style=\"text-align: center;\"><img src=\"https://demo.communico.ai:53210/Attachments/1ee7db09-d489-43f8-ab20-d14b8a7148d2_MicrosoftTeams-image.png\" class=\"img-style\" style=\"background-color: initial; max-width: 400px; max-height: 400px; min-height: 30px; min-width: 30px;\"><br><br><font color=\"#ffffff\"><br></font></div><div style=\"text-align: center;\"><font color=\"#ffffff\">Thank You!<br><br>Your Request Was Successfully Submitted&nbsp;<br></font></div><div style=\"text-align: center;\"><font color=\"#ffffff\">Request Number :&nbsp;</font><br></div>\n      ",
+        "buttons": null,
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Text",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/5b205686-fb30-4733-a81b-fae1bebbea0d_Group_12.png"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "text": "utter_NEOM_Gov_Robot_work_data_type_8c33c23a-da94-48d6-b7ce-cabce8149a45",
+  "custom": {
+    "robot": {
+      "en": {
+        "micEnabledStatus": true,
+        "movement": null,
+        "robotSays": null,
+        "screenLifetime": 0,
+        "popup": true,
+        "screenView": "0",
+        "transparency": 70,
+        "template": "Template2",
+        "screenTitle": "Work & Constructions",
+        "screenText": "<font color=\"#ffffff\">Please Confirm If You Want to Send This Request Using Your Personal Data and Not on Behalf of Another User</font>",
+        "buttons": [
+          {
+            "intent": "other_user_data",
+            "buttonTitle": "Use Another Member's Data",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          },
+          {
+            "intent": "personal_data",
+            "buttonTitle": "Use My Personal Data",
+            "logo": "",
+            "entities": [{ "entity": "", "value": "" }],
+            "extraText": "",
+            "iconType": 0
+          }
+        ],
+        "carousel": null,
+        "cards": null,
+        "input": null,
+        "screenType": "Button",
+        "bg": {
+          "type": "image",
+          "url": "https://demo.communico.ai:53210/Attachments/ca1b091f-3c8d-4dbb-8117-aa2d0d8a0e26_low_quality.jpeg"
+        },
+        "confirmation": null,
+        "calendar": null,
+        "qrCode": null,
+        "cruzrMovement": null,
+        "pepperAutonomiesAbilitiesEnabled": null,
+        "cruzrSound": null,
+        "pepperSound": null,
+        "cruzrFaceEmotion": null,
+        "interactiveList": null
+      }
+    }
+  }
+}
